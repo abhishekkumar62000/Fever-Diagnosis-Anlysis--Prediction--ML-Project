@@ -1,6 +1,6 @@
-# Fever-Diagnosis-Anlysis--Prediction--ML-Project
-
-
+🔥 **Fever Diagnosis Analysis & Prediction** 🔥
+![Picsart_24-12-07_19-06-02-230](https://github.com/user-attachments/assets/2dace32e-c0a8-4dbb-b4b2-4740ac3175b1)
+![pngwing com](https://github.com/user-attachments/assets/32f7225d-4f50-47b9-b01e-2e8ccc695cc2)
 
 ---
 
